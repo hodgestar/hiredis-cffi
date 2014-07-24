@@ -1,0 +1,2 @@
+""" CFFI definitions for hiredis.
+"""
